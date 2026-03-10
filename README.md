@@ -79,11 +79,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kevalagrawal&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://readme-stats-fast.vercel.app/api?username=kevalagrawal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=kevalagrawal&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=kevalagrawal&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevalagrawal&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://readme-stats-fast.vercel.app/api/top-langs?username=kevalagrawal&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
