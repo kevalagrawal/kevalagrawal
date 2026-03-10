@@ -126,20 +126,9 @@
 # 🔝 Top Contributed Repositories
 
 <p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=kevalagrawal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevalagrawal&theme=tokyonight" />
 </p>
 
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=kevalagrawal&icon=5&color=12"/>
-
-</p>
 
 ---
 
